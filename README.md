@@ -6,14 +6,10 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## About Project
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+This project is an AI chatbot that uses embeddings and a vector database to provide context-aware and relevant responses.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+The chatbot converts text into numerical representations called embeddings, which capture the meaning and relationships between pieces of text. These embeddings are stored in a vector database, allowing the chatbot to perform semantic similarity searches and retrieve relevant information.
 
-Happy Coding!
+The retrieved information is then used to provide the AI with relevant context before generating a response.
