@@ -5,7 +5,6 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Project
 
 This project is an AI chatbot that uses embeddings and a vector database to provide context-aware and relevant responses.
